@@ -74,6 +74,9 @@ If you are working on a module that you would like to be used by the community, 
 - [Cosmos SDK - Supply](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/supply)
 - [Kava - CDP System](https://github.com/Kava-Labs/kava-devnet/tree/master/blockchain/x)
 - [Kava - Payment Channels](https://github.com/Kava-Labs/cosmos-paychan)
+- [Cyber - Bandwidth](https://github.com/cybercongress/go-cyber/tree/master/x/bandwidth)
+- [Cyber - Rank](https://github.com/cybercongress/go-cyber/tree/master/x/rank)
+- [Cyber - Link](https://github.com/cybercongress/go-cyber/tree/master/x/link)
 
 ## Virtual Machines
 
